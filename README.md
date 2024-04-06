@@ -2,7 +2,9 @@
 
 ###
 
-<img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/5haiqin/count.svg?"  />
+</div>
 
 ###
 
@@ -56,12 +58,6 @@
   <a href="https://www.hackerrank.com/profile/5haiqin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/5haiqin/count.svg?"  />
 </div>
 
 ###
