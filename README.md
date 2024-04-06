@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/5haiqin/5haiqin/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Snake animation" />
 
 ###
 
