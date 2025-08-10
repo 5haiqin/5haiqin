@@ -49,7 +49,7 @@
 ###
 
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
-[![My Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/fb8a2832-b331-4522-842b-47ed7cdf0774)]
+- [My Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/fb8a2832-b331-4522-842b-47ed7cdf0774)
 
 ###
 <div align="center">
