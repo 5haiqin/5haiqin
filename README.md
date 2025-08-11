@@ -49,7 +49,6 @@
 ###
 
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
-![My Google Cloud Badges](https://cdn.qwiklabs.com/dM8ooTjT6GGPXBnqup2xSIXrJuJykFx8fn%2B%2BiQ41kVo%3D)
 
 ###
 <div align="center">
