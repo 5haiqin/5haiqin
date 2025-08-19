@@ -47,7 +47,7 @@
 </div>
 
 ###
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={5haiqin}" alt="LeetCode Badges" />
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
 ###
