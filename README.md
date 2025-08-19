@@ -52,7 +52,7 @@
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="30%" />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="30%" />
-  <img src="https://assets.leetcode.com/static_assets/others/25200.gif" width="30%" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="30%" />
 </div>
 ###
 
