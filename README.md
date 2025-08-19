@@ -44,19 +44,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  
 </div>
 
-[https://leetcode-badge-showcase.vercel.app/api?username=5haiqin&theme=dark&border=border&animated=false](https://leetcode-badge-showcase.vercel.app/api?username=5haiqin&theme=dark&border=no-border&animated=true)
 ###
+
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
 ###
+
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=5haiqin&theme=dark&border=no-border&animated=true)](https://leetcode.com/5haiqin/)
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/shaiqin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#search/5haiqin.tech%40gmail.com?compose=new" target="_blank">
+  <a href="mailto:5haiqin.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/5haiqin" target="_blank">
