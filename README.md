@@ -44,9 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  
 </div>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={5haiqin}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=5haiqin&theme=dark&border=border&animated=false"/>
 ###
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
