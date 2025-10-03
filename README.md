@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/58b1d4dc-287a-4d15-98f4-d28104a8afcb" />
+
 <h1 align="center">Hi👋, I'm Shaiqin</h1>
 
 ###
