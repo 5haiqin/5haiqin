@@ -37,7 +37,6 @@
 
 
 </div>
-###
 <div align="center">
 <h3>🌱 Github Status</h3>
 
@@ -51,7 +50,6 @@
 
   
 </div>
-###
 
 ###
 <div align="center">
@@ -79,7 +77,7 @@
 
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
-
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shaiqin/" target="_blank">
