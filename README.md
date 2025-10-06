@@ -38,6 +38,18 @@
 
 </div>
 
+<h3 align="center">🌱 Github Status</h3>
+
+<div align="center">
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+
+  
+  <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
+
+  
+</div>
+
+
 ###
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="25%" />
