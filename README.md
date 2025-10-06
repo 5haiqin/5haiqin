@@ -37,23 +37,22 @@
 
 
 </div>
+<h3 align="center" >🌱 Github Status</h3>
 <div align="center">
-  <h3 align="center" >🌱 Github Status</h3>
-
   <table>
     <tr>
       <td align="center" style="padding:8px;">
         <img
           src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=false"
           alt="GitHub Streak"
-          width="400"
+          width="480"
         />
       </td>
       <td align="center" style="padding:8px;">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=5haiqin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
           alt="Top Languages"
-          width="350"
+          width="320"
         />
       </td>
     </tr>
@@ -65,15 +64,12 @@
 
 </div>
 
-
-###
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="25%" />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="25%" />
   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
 </div>
 
-###
 
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
