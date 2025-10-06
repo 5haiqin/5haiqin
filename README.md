@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/58b1d4dc-287a-4d15-98f4-d28104a8afcb" />
 
 </h1>
-<h2 align="center"> I am Shaiqin</h2>
+<h2 align="center">🙋 I am Shaiqin</h2>
 
 <h4 align="left">✨ I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.</h4>
 
@@ -37,8 +37,9 @@
 
 
 </div>
+<div>
+  
 <h3 align="center" >🌱 Github Status</h3>
-<div align="center">
   <table>
     <tr>
       <td align="center" style="padding:8px;">
