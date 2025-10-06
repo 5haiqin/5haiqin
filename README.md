@@ -38,27 +38,20 @@
 
 </div>
 <!-- three badges in one row, no border -->
-<!-- Most-compatible: remove table borders -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:0;">
   <tr>
-    <td align="center" style="padding:8px; border:0;">
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-        width="480"
-        style="border:0; display:block;"
-      />
+    <td align="center" style="padding:6px;border:0;">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="badge1" width="150" style="display:block;border:0;" />
     </td>
-    <td align="center" style="padding:8px; border:0;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=5haiqin&theme=dark&hide_border=true&layout=compact"
-        alt="Top Languages"
-        width="380"
-        style="border:0; display:block;"
-      />
+    <td align="center" style="padding:6px;border:0;">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="badge2" width="150" style="display:block;border:0;" />
+    </td>
+    <td align="center" style="padding:6px;border:0;">
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="badge3" width="150" style="display:block;border:0;" />
     </td>
   </tr>
 </table>
+
 
 
 
