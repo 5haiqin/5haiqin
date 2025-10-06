@@ -38,7 +38,7 @@
 
 </div>
 <!-- three badges in one row -->
-<table align="center">
+<table align="center" border="0" >
   <tr>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="badge1" width="150" />
