@@ -59,7 +59,9 @@
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="25%" />
   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
 </div>
+
 ###
+
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
@@ -67,9 +69,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind,php" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,flask,vscode,github,git,notion,figma,pycharm,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,flask,vscode,github,git,notion,figma" /><br>
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,opencv,atom,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,netlify,java,htmx,debian,neovim,opencv,atom,pwsh" /><br>
 </div>
 
 
@@ -78,8 +80,6 @@
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
 
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shaiqin/" target="_blank">
