@@ -37,14 +37,21 @@
 
 
 </div>
-###
+<!-- three badges in one row -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="badge1" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="badge2" width="150" />
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="badge3" width="150" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="25%" />
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="25%" />
-  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
-</div>
-###
 <div>
   <div align="center">
   <h3>🌱 Github Status</h3>
