@@ -5,6 +5,16 @@
 ###
 
 <div align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="25%" />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="25%" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
+</div>
+###
+
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -39,14 +49,7 @@
 </div>
 
 
-###
 
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="25%" />
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="25%" />
-  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
-</div>
-###
 
 [![An image of @5haiqin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/5haiqin)](https://holopin.io/@5haiqin)
 
