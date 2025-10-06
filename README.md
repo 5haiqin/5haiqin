@@ -1,7 +1,5 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/58b1d4dc-287a-4d15-98f4-d28104a8afcb" />
 
-<h3 align="left">👨🏻‍💻 Passionate Frontend Developer with a keen eye for design on a mission to craft seamless digital experiences.<br><br>🛠 Tech Alchemist:<br>My toolbox brims with HTML, CSS, Bootstrap, and JavaScript wizardry, harmonized with UI/UX principles. I transform ideas into visually stunning, user-friendly interfaces as my daily adventure.<br><br>🌐 Tech Stack:<br>HTML | CSS | Bootstrap | Tailwind | JavaScript | UI/UX Design | Figma | Responsive Web Design | SQL<br><br>🤠 And my hobby is coding and exploring new technology—it's my favorite way to chill.<br><br>🙋🏻‍♂ Aspiring Coder looking for an internship. Ready to learn, innovate, and contribute to the tech world.<br>Let's connect and code the future!</h3>
-
 ###
 
 <div align="center">
@@ -10,6 +8,10 @@
   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="25%" />
 </div>
 ###
+
+
+<h3 align="left">👨🏻‍💻 Passionate Frontend Developer with a keen eye for design on a mission to craft seamless digital experiences.<br><br>🛠 Tech Alchemist:<br>My toolbox brims with HTML, CSS, Bootstrap, and JavaScript wizardry, harmonized with UI/UX principles. I transform ideas into visually stunning, user-friendly interfaces as my daily adventure.<br><br>🌐 Tech Stack:<br>HTML | CSS | Bootstrap | Tailwind | JavaScript | UI/UX Design | Figma | Responsive Web Design | SQL<br><br>🤠 And my hobby is coding and exploring new technology—it's my favorite way to chill.<br><br>🙋🏻‍♂ Aspiring Coder looking for an internship. Ready to learn, innovate, and contribute to the tech world.<br>Let's connect and code the future!</h3>
+
 
 
 ###
