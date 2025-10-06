@@ -37,7 +37,7 @@
 
 
 </div>
-
+###
 <div align="center">
 <h3>🌱 Github Status</h3>
 
@@ -51,7 +51,7 @@
 
   
 </div>
-
+###
 
 ###
 <div align="center">
@@ -70,7 +70,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind,php" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,flask,vscode,github,git,notion,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,linux" /><br>
     <img src="https://skillicons.dev/icons?i=pycharm,netlify,java,htmx,debian,neovim,opencv,atom,pwsh" /><br>
 </div>
 
