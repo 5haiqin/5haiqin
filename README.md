@@ -38,18 +38,33 @@
 
 </div>
 <div align="center">
-<h3>🌱 Github Status</h3>
+  <h3>🌱 Github Status</h3>
 
-![](https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5haiqin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <table>
+    <tr>
+      <td align="center" style="padding:8px;">
+        <img
+          src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=false"
+          alt="GitHub Streak"
+          width="380"
+        />
+      </td>
+      <td align="center" style="padding:8px;">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=5haiqin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+          alt="Top Languages"
+          width="380"
+        />
+      </td>
+    </tr>
+  </table>
 
----
-[![](https://visitcount.itsvg.in/api?id=5haiqin&icon=0&color=0)](https://visitcount.itsvg.in)
+  <br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![](https://visitcount.itsvg.in/api?id=5haiqin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
 </div>
+
 
 ###
 <div align="center">
