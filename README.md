@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/58b1d4dc-287a-4d15-98f4-d28104a8afcb" />
 
 </h1>
-<h2 align="center">❂ I am Shaiqin</h2>
+<h2 align="center"> I am Shaiqin</h2>
 
 <h4 align="left">✨ I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.</h4>
 
@@ -38,7 +38,7 @@
 
 </div>
 <div align="center">
-  <h3>🌱 Github Status</h3>
+  <h3 align="center" >🌱 Github Status</h3>
 
   <table>
     <tr>
@@ -46,14 +46,14 @@
         <img
           src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=false"
           alt="GitHub Streak"
-          width="380"
+          width="400"
         />
       </td>
       <td align="center" style="padding:8px;">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=5haiqin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
           alt="Top Languages"
-          width="380"
+          width="350"
         />
       </td>
     </tr>
