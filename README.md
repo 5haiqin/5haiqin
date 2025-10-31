@@ -84,7 +84,7 @@
 </div>
 
 <!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<h3 align="center">📚 Languages & tools </h3>
 
 <br/>
 
