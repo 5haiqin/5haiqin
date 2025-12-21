@@ -13,7 +13,7 @@
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on IoT and have experience in Python & Web Dev.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL & Data Analysis.<br>
   ⚡ Interest in IoT/AI/ML, Automation, Blockchain Development, Cyber Security etc.<br>
   <!--✨ I only like perfection.-->
 </p>
