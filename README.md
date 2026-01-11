@@ -52,6 +52,9 @@
     <td align="center" style="padding:6px;border:0;">
       <img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="badge3" width="150" style="display:block;border:0;" />
     </td>
+    <td align="center" style="padding:6px;border:0;">
+      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="badge3" width="150" style="display:block;border:0;" />
+    </td>
   </tr>
 </table>
 
