@@ -41,19 +41,19 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:0;">
   <tr>
     <td align="center" style="padding:6px;border:0;">
-      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="badge1" width="150" style="display:block;border:0;" />
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="badge1" width="140" style="display:block;border:0;" />
     </td>
     <td align="center" style="padding:6px;border:0;">
-      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="badge2" width="150" style="display:block;border:0;" />
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="badge2" width="140" style="display:block;border:0;" />
     </td>
     <td align="center" style="padding:6px;border:0;">
-      <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="badge3" width="150" style="display:block;border:0;" />
+      <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="badge3" width="140" style="display:block;border:0;" />
     </td>
     <td align="center" style="padding:6px;border:0;">
-      <img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="badge3" width="150" style="display:block;border:0;" />
+      <img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="badge3" width="140" style="display:block;border:0;" />
     </td>
     <td align="center" style="padding:6px;border:0;">
-      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="badge3" width="150" style="display:block;border:0;" />
+      <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="badge3" width="140" style="display:block;border:0;" />
     </td>
   </tr>
 </table>
