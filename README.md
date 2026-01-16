@@ -62,14 +62,15 @@
 
 
 <div>
-  <div align="center">
+<div align="center">
   <h3>🌱 Github Status</h3>
 
   <table style="margin:0 auto; border-collapse:collapse;">
     <tr>
       <td style="padding:8px;">
+        <!-- Added &refresh=1 to the end of this link to force update -->
         <img
-          src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=true"
+          src="https://nirzak-streak-stats.vercel.app/?user=5haiqin&theme=dark&hide_border=true&refresh=1"
           alt="GitHub Streak"
           width="480"
         />
