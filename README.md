@@ -34,6 +34,18 @@
 
 </div></h4>
 
+<!-- lang-->
+<h3 align="center">📚 Languages & tools </h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind,php" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,flask,vscode,github,git,notion,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,netlify,java,htmx,debian,neovim,opencv,atom,pwsh" /><br>
+</div>
+
 
 </div>
 <!-- three badges in one row, no border -->
@@ -57,17 +69,7 @@
   </tr>
 </table>
 
-<!-- lang-->
-<h3 align="center">📚 Languages & tools </h3>
 
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind,php" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,flask,vscode,github,git,notion,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,mysql,dotnet,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=pycharm,netlify,java,htmx,debian,neovim,opencv,atom,pwsh" /><br>
-</div>
 
 
 
