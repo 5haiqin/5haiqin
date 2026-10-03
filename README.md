@@ -28,8 +28,7 @@
     <img width="55px" src="https://github.com/5haiqin/Me/blob/main/assets/favicon.png" alt="Portfolio" /></a>
   <a href="https://x.com/5haiqin" target="_blank">
     <img width="57px" src="https://imgs.search.brave.com/qmJnujM3YiEyq3aoUc-Rb0fn9a6mSqb4qh4dxHLDw2Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMveF9sb2dvL3hf/bG9nb19QTkcxOC5w/bmc" alt="YouTube" /></a>
-  <a href="https://leetcode.com/u/5haiqin/" target="_blank">
-    <img width="55px" src="https://imgs.search.brave.com/OuxrAknAlrF_ZAOdmfWfga8pQANLIeV9sqX8gIbstdE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLWxv/Z28taWNvbi1kb3du/bG9hZC1pbi1zdmct/cG5nLWdpZi1maWxl/LWZvcm1hdHMtLXRl/Y2hub2xvZ3ktc29j/aWFsLW1lZGlhLXZv/bC00LXBhY2stbG9n/b3MtaWNvbnMtMjk0/NDk2MC5wbmc_Zj13/ZWJwJnc9MjU2" alt="Spotify" /></a>
+  
 </div>
 
 </div></h4>
